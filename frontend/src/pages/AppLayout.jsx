@@ -17,7 +17,7 @@ function AppLayout() {
           <LinkComponent to='/completed' text='completed' />
         </nav>
       </header>
-      <main className='flex w-[1024px] h-full  items-center justify-center text-gray-100 '>
+      <main className='flex w-[1024px] h-full  items-center justify-center text-gray-100  '>
         <Outlet />
       </main>
     </div>
